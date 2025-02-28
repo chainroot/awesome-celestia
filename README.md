@@ -1228,7 +1228,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 # Contributions by [Chainroot](https://explorer.chainroot.io/)
 
-Chainroot offers Explorer and Advanced Analytics, alongside the Knowledge Base, which offers documents, snapshots, and endpoints.
+**Chainroot provides an Explorer for tracking blockchain activity, Advanced Analytics for deeper data insights, and a Knowledge Base with documentation, snapshots, and API endpoints to support developers and users.**
 
 ### Testnet Mocha
 - Bridge Node: 12D3KooWFT3o4qnZoy4VEHzaRA3cLWDeWFkFXctEhsm8ib4fUZJw
