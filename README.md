@@ -1236,7 +1236,6 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ### Explorer
 - Mainnet: https://explorer.chainroot.io/celestia
-- Testnet: https://explorer.chainroot.io/celestia-testnet-mocha4
 
 ### Mainnet Relayer Endpoints
 - REST: https://celestia-api.chainroot.io
