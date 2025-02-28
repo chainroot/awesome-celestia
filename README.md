@@ -1255,4 +1255,5 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Addrbook File: https://s3.chainroot.io/addrbook/celestia/addrbook.json
 - Genesis File: https://s3.chainroot.io/genesis/celestia/genesis.json
 - Advanced Analytics: https://explorer.chainroot.io/advanced-analytics/celestia/chain-trends
-- Knowledge Base: https://kb.chainroot.io/networks/celestia 
+- Knowledge Base: https://kb.chainroot.io/networks/celestia
+- IBC Leaderboard: https://explorer.chainroot.io/ibc-leaderboard/celestia
